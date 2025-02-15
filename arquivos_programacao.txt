@@ -1,0 +1,13 @@
+Aulas\1 aula.py
+Aulas\1.1 ex.py
+Aulas\1.2 ex.py
+Aulas\2 aula.py
+Aulas\2.1 aula .py
+Aulas\2.2 aula .py
+Aulas\2.3 aula .py
+Aulas\2.4 ex.py
+Aulas\3 aula.py
+Aulas\3.1 aula .py
+Aulas\3.2 aula.py
+Aulas\3.3 aula.py
+Aulas\3.4_ex.py
